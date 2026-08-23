@@ -1,0 +1,10 @@
+{
+  "public_urls": {
+    "master_face": "https://drive.google.com/uc?export=view&id=16nqM_wOVM6dRI302GCj39pYpI19_W951",
+    "expression_sheet": "https://drive.google.com/uc?export=view&id=1BnEYjlUx6yVIIEl-BuzF-VPD2gVDI50q",
+    "hands_current": "https://drive.google.com/uc?export=view&id=1DtCQLrfGb1ssAmRWKhhp3VnLV4ggzUqb",
+    "swatches_current": "https://drive.google.com/uc?export=view&id=1fNl-s40Oo38_8SNVLo7KqmOucspykFW4"
+  },
+  "github_kit": "https://github.com/racheleliseanderson-ui/wade-rowan-kit",
+  "notes": "Phase 0.1 complete. Use these public URLs for Midjourney --oref and cross-tool references. Update the Drive copy of wade-character-manifest.json with these fields."
+}
